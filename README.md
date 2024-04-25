@@ -6,6 +6,7 @@ To access and ultilize this script, open the "final_project_script.R" file, whic
 The data for this specific analysis was gathered by looking at a total of 30 different Taylor Swift songs from various albums. Using the observations and creating a code will show the overall tone/mood of Taylor Swift songs and what might exactly affect it. Each unit of analysis was one song and there were 4 variables (two quantitative and two qualitative) variables that were observed. The sampling strategy I used was the simple random sampling strategy to ensure there were no biases when picking the songs.
 
 One song was looked at at a time and the variables: connotation_of_song, genre_of_song, energy_of_song and new_vs_old_song, were carefully considered when evaluating the selected song.
+
 #**Operationilization**
 The concept of the connotation of the songs which relates to the overall tone/mood was operationalized by using qualitative coding scheme. It was measured with the words "positive", "neutral" and "negative". This variable really considered the lyrics but also the beat of the song as well.
 
