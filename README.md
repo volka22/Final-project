@@ -12,7 +12,7 @@ The data for this specific analysis was gathered by looking at a total of 30 dif
 
 One song was looked at at a time and the variables: connotation_of_song, genre_of_song, energy_of_song and new_vs_old_song, were carefully considered when evaluating the selected song.
 
-#**Operationilization**
+# **Operationalization**
 
 The concept of the connotation of the songs which relates to the overall tone/mood was operationalized by using qualitative coding scheme. It was measured with the words "positive", "neutral" and "negative". This variable really considered the lyrics but also the beat of the song as well.
 
